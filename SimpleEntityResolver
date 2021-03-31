@@ -10,6 +10,6 @@ public class SimpleEntityResolver implements EntityResolver {
         throws IOException, SAXException {
         
         // In the default case, return null
-        return null;    
+        return 0;    
     }
 }
